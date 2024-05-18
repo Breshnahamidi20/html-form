@@ -4,8 +4,7 @@ body {
   margin: 0;
   background-color: #1b1b32;
   color: #f5f6f7;
-  font-family:
-  Tahoma;
+  font-family:Tahoma;
   font-size: 16px;
 }
 
@@ -13,6 +12,7 @@ h1,
 p {
   margin: 1em auto;
   text-align: center;
+
 }
 
 form {
@@ -47,7 +47,7 @@ input, textarea, select {
 input, textarea {
   background-color: #0a0a23;
   border: 1px solid #0a0a23;
-  color: #ffffff;
+  color: #fff;
 }
 
 .inline {
@@ -76,5 +76,5 @@ input[type="file"] {
 }
 
 a {
-  color:#dfdfe2;
+  color: #dfdfe2;
 }
