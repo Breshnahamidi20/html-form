@@ -4,7 +4,7 @@ body {
   margin: 0;
   background-color: #1b1b32;
   color: #f5f6f7;
-  font-family:Tahoma;
+  font-family: "Tahoma";
   font-size: 16px;
 }
 
@@ -12,7 +12,6 @@ h1,
 p {
   margin: 1em auto;
   text-align: center;
-
 }
 
 form {
@@ -38,13 +37,16 @@ label {
   margin: 0.5rem 0;
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
   margin: 10px 0 0 0;
   width: 100%;
   min-height: 2em;
 }
 
-input, textarea {
+input,
+textarea {
   background-color: #0a0a23;
   border: 1px solid #0a0a23;
   color: #fff;
